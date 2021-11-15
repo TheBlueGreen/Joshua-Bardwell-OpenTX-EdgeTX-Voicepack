@@ -1,5 +1,5 @@
 # Joshua-Bardwell-OpenTX-EdgeTX-Voicepack
-Joshua Bardwell's OpenTX/EdgeTX Voicepack Temp Repository **[WORK IN PROGRESS]**
+Joshua Bardwell's OpenTX/EdgeTX Voicepack Fan-made Repository **[WORK IN PROGRESS]**
 
 ![](https://www.fpvknowitall.com/wp-content/uploads/2021/08/bardwell-homepage-banner-optimized.webp)
 
