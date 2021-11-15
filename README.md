@@ -18,6 +18,14 @@ Joshua Bardwell's OpenTX/EdgeTX Voicepack Temp Repository **[WORK IN PROGRESS]**
 - **Normalized** = Volume Normalized (-14LUFs)
 - **Converted** = Converted to match standard OpenTX voicepack(32000/16bit). Also renamed but not changed to match OpenTX naming.
 
-## Questions?
+## TODO:
+- Get feedback on sound quality.
+- Adjust filenames so they can be drag-and-dropped to OpenTX/EdgeTX SD Card.
+
+## Notes and Contact Info
+
+This repo is not directly related to Joshua Bardwell. The original uncut recording was released on the FPV Know-It-All Patreon Discord.
+
+>I (Scincidae) decided to attempt to convert it to a usuable voicepack for anyone to use. There may be other voicepacks created from the same source and they may or may not be more complete or of higher quality. I am not a audio professional, just a fan that wanted to give back to the amazing FPV community.
 
 *Contact Scincidae on the discord with any questions/concerns.*
