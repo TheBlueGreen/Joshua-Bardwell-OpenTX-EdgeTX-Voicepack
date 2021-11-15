@@ -20,7 +20,15 @@ Current edit flow **raw**->**normalized**->**converted**
 
 ## TODO
 - Get feedback on sound quality.
-- Adjust filenames so they can be drag-and-dropped to OpenTX/EdgeTX SD Card.
+- Adjust filenames so they can be drag-and-dropped to OpenTX/EdgeTX SD Card. (Initial support added, thanks IDV)
+- Improve installation instruction + add images.
+
+## How To Install
+
+1. Backup OpenTX/EdgeTX SD Card (mount your transmitter to your PC or use a SD card reader)
+2. Download contents of "drag-and-drop" folder from this GitHub repo.
+3. Extract or copy contents of the "drag-and-drop" folder into the X://SOUNDS/en folder on your OpenTX/EdgeTX SD card. (Drive letter X will be different for everyone)
+4. Enjoy!
 
 ## Notes and Contact Info
 
