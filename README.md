@@ -7,8 +7,8 @@ Fan-made Joshua Bardwell OpenTX/EdgeTX Voicepack Repository **[WORK IN PROGRESS]
 
 
 
-<p align="center"> <a href="http://www.https://www.open-tx.org/"><img src="https://www.immersionrc.com/wp-content/uploads/2021/01/Artboard-3.png"></a></p>
-<p align="center"> <a href="http://www.https://www.edgetx.org/"><img src="https://avatars.githubusercontent.com/u/83762968?s=200&v=4"></a></p>
+<p align="center"> <a href="http://www.open-tx.org/"><img src="https://www.immersionrc.com/wp-content/uploads/2021/01/Artboard-3.png"></a></p>
+<p align="center"> <a href="http://www.edgetx.org/"><img src="https://avatars.githubusercontent.com/u/83762968?s=200&v=4"></a></p>
 <p align="center"> <a href="http://www.fpvknowitall.com"><img width="150" height="120" src="https://www.fpvknowitall.com/wp-content/uploads/2019/10/fpv-know-it-all-joshua-bardwell-logo.png"></a></p>
 
 
