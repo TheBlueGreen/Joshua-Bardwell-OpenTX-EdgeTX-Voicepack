@@ -12,8 +12,8 @@ Fan-made Joshua Bardwell OpenTX/EdgeTX Voicepack Repository **[WORK IN PROGRESS]
 <p align="center"> <img width="150" height="120" src="https://www.fpvknowitall.com/wp-content/uploads/2019/10/fpv-know-it-all-joshua-bardwell-logo.png"></p>
 
 
-## Current edit flow **raw**->**normalized**->**converted**
-
+## Process
+Current edit flow **raw**->**normalized**->**converted**
 - **Raw** = Split but not edited
 - **Normalized** = Volume Normalized (-14LUFs)
 - **Converted** = Converted to match standard OpenTX voicepack(32000/16bit). Also renamed but not changed to match OpenTX naming.
