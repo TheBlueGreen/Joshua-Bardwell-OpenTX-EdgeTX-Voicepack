@@ -29,3 +29,8 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 >I (Scincidae) decided to attempt to convert Joshua's released recording to a usuable voicepack for anyone to use. There may be other voicepacks created from the same source and they may or may not be more complete or of higher quality. I am not a audio professional, just a fan that wanted to give back to the amazing FPV community. If anyone would like to help, feel free to reach out to me.
 
 *Contact Scincidae on the discord with any questions/concerns.*
+
+## Credits
+- *Joshua Bardwell* - for the voice recordings of course!
+- Scincidae (Me) - slicing/editing raw recordings
+- IDV - matching file names from the converted files to match OpenTX 
