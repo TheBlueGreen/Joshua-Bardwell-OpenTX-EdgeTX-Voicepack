@@ -41,4 +41,4 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 ## Credits
 - *Joshua Bardwell* - for the voice recordings of course!
 - Scincidae (Me) - slicing/editing raw recordings
-- IDV - matching file names from the converted files to match OpenTX 
+- IDV - organizing and matching file names from the converted files to match OpenTX 
