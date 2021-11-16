@@ -25,10 +25,12 @@ Current edit flow **raw**->**normalized**->**converted**
 
 ## How To Install
 
-1. Backup OpenTX/EdgeTX SD Card (mount your transmitter to your PC or use a SD card reader)
+1. Backup OpenTX/EdgeTX SD card (mount your transmitter to your PC or use a SD card reader)
 2. Download contents of "drag-and-drop" folder from this GitHub repo.
 3. Extract or copy contents of the "drag-and-drop" folder into the X://SOUNDS/en folder on your OpenTX/EdgeTX SD card. (Drive letter X will be different for everyone)
 4. Enjoy!
+
+>Please note that a large amount of voice lines are not able to be drag and drop installed at this time. The drag and drop files only replace all of the defaults that come setup with a fresh install of OpenTX/EdgeTX. For now all other voices must be manually configured and when adding any of these extra files to your SD card you must rename them to be 8 characters or less (not including the file extension). I will work on a separate guide for how to set these up and if possible automate the process.
 
 ## Notes and Contact Info
 
