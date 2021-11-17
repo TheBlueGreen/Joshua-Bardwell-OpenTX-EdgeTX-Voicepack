@@ -27,7 +27,7 @@ Current edit flow **raw**->**normalized**->**converted**->**drag-and-drop**
 ## How To Install
 
 1. Backup OpenTX/EdgeTX SD card (mount your transmitter to your PC or use a SD card reader)
-2. Download contents of "drag-and-drop" folder from this GitHub repo.
+2. Download release version of the Joshua Bardwell OpenTX Voicepack here: https://github.com/TheBlueGreen/Joshua-Bardwell-OpenTX-EdgeTX-Voicepack/releases/tag/1.0.0
 3. Extract or copy contents of the "drag-and-drop" folder into the X://SOUNDS/en folder on your OpenTX/EdgeTX SD card. (Drive letter X will be different for everyone)
 4. Enjoy!
 
