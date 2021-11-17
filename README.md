@@ -30,7 +30,14 @@ Current edit flow **raw**->**normalized**->**converted**
 3. Extract or copy contents of the "drag-and-drop" folder into the X://SOUNDS/en folder on your OpenTX/EdgeTX SD card. (Drive letter X will be different for everyone)
 4. Enjoy!
 
->Please note that a large amount of voice lines are not able to be drag and drop installed at this time. The drag and drop files only replace all of the defaults that come setup with a fresh install of OpenTX/EdgeTX. For now all other voices must be manually configured and when adding any of these extra files to your SD card you must rename them to be 8 characters or less (not including the file extension). I will work on a separate guide for how to set these up and if possible automate the process.
+>You may also install the drag-and-drop-extended folder which includes extra sounds that are not assigned to any event in the default OpenTX/EdgeTX configuration. To use them you must asign them to a custom event. All files were shortened to 8 characters or less, which is a restriction of OpenTX/EdgeTX. A readme file is included with full sound descriptions.
+>
+> For model independent sounds you would use GLOBAL FUNCTIONS.
+> 
+> For model dependent sounds you would use SPECIAL FUNCTIONS.
+>
+> To find out more please see: https://doc.open-tx.org/manual-for-opentx-2-2/advanced-features/audio
+
 
 ## Notes and Contact Info
 
@@ -42,5 +49,5 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 
 ## Credits
 - *Joshua Bardwell* - for the voice recordings of course!
-- Scincidae (Me) - slicing/editing raw recordings
-- IDV - organizing and matching file names from the converted files to match OpenTX 
+- Scincidae (Me) - slicing/editing raw recordings, managing GitHub repo.
+- IDV - organizing and matching file names from the converted files to match OpenTX, shortened extended sounds/wrote their descriptions.
