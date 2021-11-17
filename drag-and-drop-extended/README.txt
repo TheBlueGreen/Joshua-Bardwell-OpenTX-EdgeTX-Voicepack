@@ -1,9 +1,9 @@
-## The files listed below are not used by OpenTX/EdgeTX in a default configuration. You must assign these to a custom event. 
+The files listed below are not used by OpenTX/EdgeTX in a default configuration. You must assign these to a custom event. 
 
-## For model independent sounds you would use GLOBAL FUNCTIONS.
-## For model dependent sounds you would use SPECIAL FUNCTIONS.
+For model independent sounds you would use GLOBAL FUNCTIONS.
+For model dependent sounds you would use SPECIAL FUNCTIONS.
 
-## To find out more please see: https://doc.open-tx.org/manual-for-opentx-2-2/advanced-features/audio
+To find out more please see: https://doc.open-tx.org/manual-for-opentx-2-2/advanced-features/audio
 
 alrghty | Alrighty thats something
 beastmd | Beast Mode
