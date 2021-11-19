@@ -173,3 +173,11 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 |`thrup   `| Your Throttles Up|
 |`failsafe`| Youre about to failsafe...Its up to you...Keep flying if you want|
 |`lrnsome `| Youre gonna learn something today..hahahaha..|
+
+## Requested/Missing Voice Lines
+
+> Theses are extra voice lines that have been requested. No guarentee that these will get added but I will pass requests to Joshua.
+
+| #   | Description  | 
+| :-- | :----------- |
+| `1 `| Pitmode On/Off/Enabled/Disabled |
