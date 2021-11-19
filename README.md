@@ -180,4 +180,4 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 
 | #   | Description  | 
 | :-- | :----------- |
-| `1 `| Pitmode On/Off/Enabled/Disabled |
+| `1 `| Pit Mode On/Off/Enabled/Disabled |
