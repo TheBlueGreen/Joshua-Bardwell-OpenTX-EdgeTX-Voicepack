@@ -183,4 +183,5 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 | `1` | Pit Mode On/Off/Enabled/Disabled |
 | `2` | Horizon Mode |
 | `3` | Your battery is pretty low, you should land! |
-| `4` | Vtx power level is 25mw
+| `4` | Vtx power level is 25mw/.../1w |
+| `5` | Pit Mode On/Off |
