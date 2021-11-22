@@ -7,4 +7,5 @@ assignees: ''
 
 ---
 
-Do you have a track that JB could record? Then leave it here!
+What would the track be?
+Explain...
