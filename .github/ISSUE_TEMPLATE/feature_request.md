@@ -8,4 +8,3 @@ assignees: ''
 ---
 
 What would the track be?
-Explain...
