@@ -11,19 +11,6 @@ Fan-made Joshua Bardwell OpenTX/EdgeTX Voicepack Repository **[WORK IN PROGRESS]
 <p align="center"> <a href="http://www.edgetx.org/"><img src="https://avatars.githubusercontent.com/u/83762968?s=200&v=4"></a></p>
 <p align="center"> <a href="http://www.fpvknowitall.com"><img width="150" height="120" src="https://www.fpvknowitall.com/wp-content/uploads/2019/10/fpv-know-it-all-joshua-bardwell-logo.png"></a></p>
 
-
-## Process
-Current edit flow **raw**->**normalized**->**converted**->**drag-and-drop**
-- **Raw** = Split but not edited.
-- **Normalized** = Volume Normalized (-14LUFs).
-- **Converted** = Converted/processed to match standard OpenTX voicepack(32000/16bit). Also renamed but not changed to match OpenTX naming.
-- **Drag-and-drop** = Matched file names to OpenTX/EdgeTX defaults for drag-and-drop install.
-
-## TODO
-- Get feedback/improve sound quality as needed.
-- ~~Adjust filenames so they can be drag-and-dropped to OpenTX/EdgeTX SD Card.~~ (thanks IDV)
-- Improve installation instruction + add images.
-
 ## How To Install
 
 1. Backup OpenTX/EdgeTX SD card (mount your transmitter to your PC or use a SD card reader)
@@ -39,6 +26,17 @@ Current edit flow **raw**->**normalized**->**converted**->**drag-and-drop**
 >
 > To find out more please see: https://doc.open-tx.org/manual-for-opentx-2-2/advanced-features/audio
 
+## Process
+Current edit flow **raw**->**normalized**->**converted**->**drag-and-drop**
+- **Raw** = Split but not edited.
+- **Normalized** = Volume Normalized (-14LUFs).
+- **Converted** = Converted/processed to match standard OpenTX voicepack(32000/16bit). Also renamed but not changed to match OpenTX naming.
+- **Drag-and-drop** = Matched file names to OpenTX/EdgeTX defaults for drag-and-drop install.
+
+## TODO
+- Get feedback/improve sound quality as needed.
+- ~~Adjust filenames so they can be drag-and-dropped to OpenTX/EdgeTX SD Card.~~ (thanks IDV)
+- Improve installation instruction + add images.
 
 ## Notes and Contact Info
 
