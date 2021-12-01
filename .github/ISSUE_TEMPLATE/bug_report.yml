@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
-    - type: textarea
+  - type: textarea
     id: Describe_the_issue
     attributes:
       label: What happened?
