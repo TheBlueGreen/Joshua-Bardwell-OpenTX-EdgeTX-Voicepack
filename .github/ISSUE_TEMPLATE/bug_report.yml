@@ -17,7 +17,7 @@ body:
     validations:
       required: false
   - type: textarea
-    id: Describe the issue
+    id: Describe_the_issue
     attributes:
       label: What happened?
     validations:
