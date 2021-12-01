@@ -25,9 +25,9 @@ body:
         - Other
     validations:
       required: true
-- type: input
-  id: contact
-  attributes:
+  - type: input
+    id: contact
+    attributes:
       label: Contact Details
       description: How can we get in touch with you if we need more info?
       placeholder: ex. discordUsername#0001
