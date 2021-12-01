@@ -185,3 +185,7 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 | `5` | Pit Mode On/Off |
 | `6` | Arm |
 | `7` | Arm motors |
+| `8` | Blackbox Activate 
+| `9` | Pre Arm Activated
+| `10`| Buzzer Active
+| `11`| 3D Mode 
