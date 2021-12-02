@@ -7,6 +7,12 @@ body:
     attributes:
       value: |
         Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: What-would-the-voiceline-be
+    attributes:
+      label: Put you voiceline request here
+    validations:
+      required: true
   - type: input
     id: contact
     attributes:
@@ -15,9 +21,3 @@ body:
       placeholder: ex. discordUsername#0001
     validations:
       required: false
-  - type: textarea
-    id: What-would-the-voiceline-be
-    attributes:
-      label: Put you voiceline request here
-    validations:
-      required: true
