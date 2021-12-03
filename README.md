@@ -189,3 +189,4 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 | `9` | Pre Arm Activated
 | `10`| Buzzer Active
 | `11`| 3D Mode 
+| `12`| Expo
