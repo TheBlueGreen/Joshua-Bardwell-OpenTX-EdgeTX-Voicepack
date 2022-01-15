@@ -190,3 +190,5 @@ This repo is not directly related to Joshua Bardwell. The original uncut recordi
 | `10`| Buzzer Active
 | `11`| 3D Mode 
 | `12`| Expo
+| `13`| Blackbox Off / On
+| `14`| Erase Blackbox
